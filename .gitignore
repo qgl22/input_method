@@ -1,0 +1,18 @@
+# 忽略当前目录的data文件夹
+data/
+
+# 忽略resourece文件夹里的所有文件
+resourece/*
+
+# 忽略testcase文件夹中的所有文件
+testcase/*
+
+# 忽略当前目录的2016-04.txt到2016-11.txt
+2016-04.txt
+2016-05.txt
+2016-06.txt
+2016-07.txt
+2016-08.txt
+2016-09.txt
+2016-10.txt
+2016-11.txt
